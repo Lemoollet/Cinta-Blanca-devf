@@ -1,0 +1,13 @@
+.profile-icon {
+  font-size: 100px;
+  color: rgb(41, 78, 78);
+}
+
+@font-face {
+  font-family: "IndieFlower";
+  src: url("fonts/IndieFlower.ttf");
+}
+
+h1 {
+  font-family: "" Oswald ", sans-serif;";
+}

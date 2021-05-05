@@ -1,0 +1,26 @@
+.logos {
+  margin-left: 10%;
+  display: flex;
+}
+
+.navegacion {
+  margin-left: 50%;
+  display: flex;
+}
+
+body {
+  background: linear-gradient(to right, #bc72af, #8bb3e6);
+}
+
+.discos {
+  border: 2px solid green;
+  display: flex;
+  width: 200px;
+  height: 200px;
+  padding: 0;
+  justify-content: center;
+}
+
+.img-thumbnail {
+  padding: 0;
+}

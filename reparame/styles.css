@@ -1,0 +1,260 @@
+.logo {
+  /* border: 2px solid blue; */
+  margin: 0%;
+  padding: 0%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.logm {
+  border-radius: 100%;
+}
+.reparame {
+  margin: 0% 5px;
+  padding: 0%;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: 700;
+  font-size: 170%;
+}
+.custom-emp {
+  /* border: 2px solid green; */
+  display: flex;
+  justify-content: flex-end;
+}
+.custom-img {
+  width: 100%;
+  height: 700px;
+}
+.img {
+  height: 100%;
+}
+.space {
+  /* border: 2px solid green; */
+  display: flex;
+  justify-content: center;
+  margin: 40px;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: 700;
+  font-size: 200%;
+}
+.cajitas {
+  /* border: 2px solid blue; */
+  display: flex;
+  justify-content: space-around;
+  align-content: center;
+}
+.img-con {
+  width: 40%;
+  height: 40%;
+  margin-left: 30%;
+}
+
+.fullform {
+  /* border: 2px solid red; */
+  padding: 20px;
+}
+
+.cursiimagen {
+  width: 100%;
+}
+
+.img-fondo {
+  width: 100%;
+  height: 300px;
+}
+
+.custom-form {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.custom-btn {
+  justify-content: center;
+}
+
+.hola {
+  margin-top: 100px;
+  /* border: 2px solid green;  */
+}
+
+.custom-container {
+  /* border: 2px solid salmon; */
+  margin-top: 55px;
+  padding: 100px;
+  background-image: url("https://images.unsplash.com/photo-1537291095077-1bded24d9fe3?ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80");
+}
+.custom-fm {
+  display: flex;
+  justify-content: space-around;
+}
+
+.boton-con {
+  /* border: 2px solid red; */
+  display: flex;
+  justify-content: center;
+  margin: 50px;
+}
+
+.con {
+  line-height: 1;
+  color: white;
+  background: #2a8ef2;
+  border: #2a8ef2;
+  font-size: 16px;
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight: bold;
+  border-radius: 500px;
+  margin: 30px 0;
+  padding: 19px 56px 21px;
+}
+
+.franja-f {
+  /* border: 2px solid blue; */
+  width: 100%;
+  height: 200px;
+  display: flex;
+  justify-content: space-around;
+  background: #495057;
+}
+
+.logtex {
+  /* border: 2px solid black; */
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  color: white;
+}
+
+.logu {
+  border-radius: 100%;
+  margin: 10px;
+}
+
+.redes {
+  /* border: 2px solid green; */
+  width: 40%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.nombre {
+  color: white;
+}
+
+.via-tel {
+  /* border: 2px solid blue; */
+  display: flex;
+  justify-content: center;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 100px;
+}
+
+.logo {
+  /* border: 2px solid blue; */
+  margin: 0%;
+  padding: 0%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.reparame {
+  margin: 0% 5px;
+  padding: 0%;
+  font-family: ‘Courier New’, Courier, monospace;
+  font-weight: 700;
+  font-size: 170%;
+}
+.custom-emp {
+  /* border: 2px solid green; */
+  display: flex;
+  justify-content: flex-end;
+}
+.custom-img {
+  width: 100%;
+  height: 700px;
+}
+
+.img {
+  height: 100%;
+}
+
+.space {
+  /* border: 2px solid green; */
+  display: flex;
+  justify-content: center;
+  margin: 20px;
+  font-family: ‘Courier New’, Courier, monospace;
+  font-weight: 700;
+  font-size: 200%;
+}
+.cajitas {
+  /* border: 2px solid blue; */
+  display: flex;
+  justify-content: space-around;
+  align-content: center;
+}
+.img-con {
+  width: 100px;
+  height: 100px;
+  margin-left: 30%;
+}
+
+.contactanos {
+  /* border: 2px solid black; */
+  display: flex;
+  justify-content: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.custom-letra {
+  /* border: 2px solid red; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 300px 100px;
+  font-weight: 900;
+}
+
+.servicio {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 350%;
+}
+
+.text-serv {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 150%;
+  font-weight: 900;
+  color: white;
+}
+
+.text {
+  justify-content: center;
+  font-size: 150%;
+  color: white;
+  font-weight: 700;
+}
+
+.contacts {
+  border: 2px green;
+  font-family: Impact, ‘Arial Narrow Bold’, sans-serif;
+  font-weight: 900;
+  margin-top: 100px;
+}
+
+.emptext {
+  display: flex;
+  justify-content: center;
+  margin: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.box {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  justify-content: space-around;
+}

@@ -1,0 +1,119 @@
+body {
+  background: blueviolet;
+}
+
+.custom-navbar {
+  border: 2px solid;
+  height: 57px;
+  display: flex;
+  align-content: center;
+  background: #222326;
+}
+
+.logo {
+  width: 80px;
+}
+
+.custom-nav-icon {
+  width: 35px;
+}
+
+.custom-nav-icon-container {
+  padding: 0;
+  border: none;
+}
+
+.custom-text {
+  border: 2px solid red;
+  text-align: center;
+  padding-top: 3rem;
+  color: white;
+  font-family: Circular, Helvetica, Arial, sans-serif;
+}
+
+.custom-text span {
+  font-size: 11px;
+}
+
+.custom-text h1 {
+  font-weight: 549;
+}
+
+.custom-text p {
+  font-weight: 900;
+}
+
+.custom-text button {
+  height: 50px;
+  border: none;
+  border-radius: 50px;
+  background: #1db954;
+  color: white;
+  width: 100%;
+}
+
+.covers {
+  border: 2px solid blue;
+  height: 300px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.cover {
+  width: 130px;
+  height: 130px;
+  border: 2px solid;
+}
+
+@media (min-widht: 768px) {
+}
+
+/* .img-profile {
+    width: 30px;
+    border-radius: 50%;
+  }
+  .custom-navbar {
+    border: 2px solid;
+    position: fixed;
+    padding: 0 85px;
+    height: 60px;
+  }
+  
+  .logo {
+    width: 100px;
+  }
+  
+  .navbar-content{
+    display: flex;
+    justify-content: flex-end;
+    width: 400px
+  }
+  .menu-nav {
+    display: flex;
+    justify-content: flex-end;
+  }
+  
+  .menu-list {
+    width: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding-right: 30px
+  }
+  
+  .menu-list a {
+    color: white;
+    font-size: 13px;
+  }
+  
+  .menu-list a:hover{
+    color: navy;
+    text-decoration: none;
+  }
+  
+  .profile-menu {
+    display: flex;
+    align-items: center;
+  } */
